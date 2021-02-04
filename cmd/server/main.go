@@ -10,8 +10,8 @@ import (
 	"time"
 
 	"github.com/99designs/gqlgen/handler"
-	gkc "github.com/anselm94/googlekeepclone"
-	gkcserver "github.com/anselm94/googlekeepclone/server"
+	gkc "github.com/timothygorer/googlekeepclone"
+	gkcserver "github.com/timothygorer/googlekeepclone/server"
 	"github.com/gorilla/mux"
 	"github.com/gorilla/sessions"
 	"github.com/gorilla/websocket"
